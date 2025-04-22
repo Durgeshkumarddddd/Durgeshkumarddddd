@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Go-WordWonder Webapp**
+- 👯 I’m looking to collaborate on **Vidora movie app**
 
 - 📫 How to reach me **durgeshkumarddddd234@gmail.com**
 
